@@ -49,7 +49,7 @@ export default function Footer() {
             <ul className="space-y-4 text-center md:text-left">
               <FooterLink href="/">Home</FooterLink>
               <FooterLink href="/About">About</FooterLink>
-              <FooterLink href="/skills">Skills</FooterLink>
+              <FooterLink href="/Skills">Skills</FooterLink>
               <FooterLink href="/projects">Projects</FooterLink>
             </ul>
           </div>
